@@ -45,12 +45,12 @@ studyScope();
 // Null       : 개발자가 명시적으로 값이 없음을 나타내기 위해 할당하는 값
 // Undefined  : 변수가 선언된 이후 초기화되지 않았음. 자바스크립트 앤진이 자동으로 넣어주는 값
 
-const username = '하명도';
+const username = '김예원';
 const age = 20;
 const flg = true;
 const empty = null;
 let _undefined;
-const obj = {name: '하명도', subject: ['java', 'html', 'css']}
+const obj = {name: '김예원', subject: ['java', 'html', 'css']}
 
 console.log('==============================');
 

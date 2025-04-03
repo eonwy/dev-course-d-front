@@ -5,7 +5,6 @@ b_css/.DS_Store
 .DS_Store
 b_css/assets
 b_css/app/assets
-c_js/app/assets
 c_js/node_modules
 c_js/package-lock.json
 c_js/package.json

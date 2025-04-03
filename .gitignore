@@ -8,3 +8,6 @@ b_css/app/assets
 c_js/node_modules
 c_js/package-lock.json
 c_js/package.json
+c_js/app/assets/fontawesome
+c_js/app/assets/img
+c_js/app/assets/css
